@@ -50,9 +50,9 @@ I studied a foundation course in 2020, and this was my research topic. I was loo
 
 
 
-#### Here is my work. 
+#### Here is my research about human emotion mentioned above.
 
-[How human emotions change through watching sad films and how these changes may affect life.](Human%20enotion%20and%20films%20Research%202021%20.pdf)
+How human emotions change through watching sad films and how these changes may affect life.
 
 
 
