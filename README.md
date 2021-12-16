@@ -4,7 +4,17 @@
 #### My portfolio includes the following.
 
 ##### ・Introduction about me 
-There is a brief introduction about who I am, where I am from, and what I am studying. 
+There is a brief introduction about who I am, where I am from, and what I am studying.
+#### ・Link of my LinkedIn account
+I added my social media link to findout more about me and my past.
+#### ・Contact
+I added my university email adress to contact me.
+#### ・Education
+I included my education past which is interestiong because I have experiences studying in Japan and in England.
+#### ・MY Research
+Written work (essay) where I researched something interesting when I was studying in University of Essex International school. It is about Human emotion and sad films.
+#### ・CV
+Updated CV.
 
 
 <br>
