@@ -20,9 +20,10 @@ Updated CV.
 <br>
 
 ## Log
-- 2021-12-9 attached CV pdf file and my research pdf file
-- 2021-12-7 Created CV
-- 2021-12-3 Eddited few parts of my file
+- 2021-12-16 added a part called portfolio items to this file that explains what this portfolio contains.
+- 2021-12-9 attached CV pdf file and my research pdf file.
+- 2021-12-7 Created an updated CV.
+- 2021-12-3 Eddited few parts of my file to improve and to be more clean.
 - 2021-11-24 Talked to a tutor about my website and essay. It helped a lot.
 - 2021-10-21 Created github account. 
 
@@ -38,6 +39,11 @@ Updated CV.
 - start my essay draft
 - finish attachig my work about human emotions
 - put images to github page and explain my research content
+## by week 12
+- send my essay draft to my peer student and hopefully get a feedback.
+- start writing an actual essay
+- change the link to look more clean 
+-
 <br>
 
 
