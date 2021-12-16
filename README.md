@@ -4,7 +4,8 @@
 #### My portfolio includes the following.
 
 ##### ・Introduction about me 
-        There is a brief introduction about who I am, where I am from, and what I am studying. 
+There is a brief introduction about who I am, where I am from, and what I am studying. 
+
 
 <br>
 
