@@ -20,6 +20,8 @@ Updated CV.
 <br>
 
 ## Log
+- made new file for my research slides
+- 2021-01-03 reduced GB on pdf slides
 - 2021-12-23 got some useful feedback for my essay from other student. (To include my own V&R map, to have few references, and to include introduction and conclusion.)
 - 2021-12-23 sent esssay draft to other student.
 - 2021-12-16 added a part called portfolio items to this file that explains what this portfolio contains.
@@ -46,7 +48,7 @@ Updated CV.
 - start writing an actual essay
 - change the link to look more clean 
 ## by week 14
-- reduce GB on my powerpoint
+- reduce GB on my research slides
 
 <br>
 
