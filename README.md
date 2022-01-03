@@ -20,7 +20,7 @@ Updated CV.
 <br>
 
 ## Log
-- 2021-12-23 got some useful feedback for my essay from other student.
+- 2021-12-23 got some useful feedback for my essay from other student. (To include my own V&R map, to have few references, and to include introduction and conclusion.)
 - 2021-12-23 sent esssay draft to other student.
 - 2021-12-16 added a part called portfolio items to this file that explains what this portfolio contains.
 - 2021-12-9 attached CV pdf file and my research pdf file.
