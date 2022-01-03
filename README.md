@@ -20,6 +20,8 @@ Updated CV.
 <br>
 
 ## Log
+- 2021-12-23 got some useful feedback for my essay from other student.
+- 2021-12-23 sent esssay draft to other student.
 - 2021-12-16 added a part called portfolio items to this file that explains what this portfolio contains.
 - 2021-12-9 attached CV pdf file and my research pdf file.
 - 2021-12-7 Created an updated CV.
@@ -43,7 +45,9 @@ Updated CV.
 - send my essay draft to my peer student and hopefully get a feedback.
 - start writing an actual essay
 - change the link to look more clean 
--
+## by week 14
+- reduce GB on my powerpoint
+
 <br>
 
 
