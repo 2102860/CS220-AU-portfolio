@@ -54,7 +54,9 @@ I studied a foundation course in 2020, and this was my research topic. I was loo
 
 [How human emotions change through watching sad films and how these changes may affect life.](https://github.com/2102860/CS220-AU-portfolio/blob/main/Human-emotions-and-films%202021%20.pdf)
 
+#### Here is some slides briefly explaining my research. 
 
+[Slides about my research.](https://github.com/2102860/CS220-AU-portfolio/blob/main/Human-20emotion-20and-20sad-20films.pdf)
 
 <br><br> 
 
