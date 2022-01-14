@@ -1,9 +1,9 @@
 # CS220 AU portfolio
 
 ## Portfolio items
-#### My portfolio includes the following.
+### My portfolio includes the following.
 
-##### ・Introduction about me 
+#### ・Introduction about me 
 There is a brief introduction about who I am, where I am from, and what I am studying.
 #### ・Link of my LinkedIn account
 I added my social media link to findout more about me and my past.
