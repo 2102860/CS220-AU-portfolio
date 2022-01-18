@@ -20,6 +20,7 @@ Updated CV.
 <br>
 
 ## Log
+- 2022-01-18 Edited my CV and uploaded a new version
 - 2022-01-18 Talked with the tutor to make the URL shorter
 - 2022-01-18 Did self assessment
 - 2022-01-18 Exported my essay to PDF
@@ -62,6 +63,7 @@ Updated CV.
 - change the URL of my pdf files to look more clean
 ## by week 16
 - final check
+- Edit my CV
 - Submit !
 <br>
 
