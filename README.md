@@ -20,6 +20,7 @@ Updated CV.
 <br>
 
 ## Log
+- 2022-01-18 Talked with the tutor to make the URL shorter
 - 2022-01-18 Did self assessment
 - 2022-01-18 Exported my essay to PDF
 - 2022-01-14 Added referencing list 
@@ -27,14 +28,14 @@ Updated CV.
 - 2022-01-11 Finished essay 
 - 2022-01-03 Made new file for my research slides
 - 2022-01-03 Reduced GB on pdf slides
-- 2021-12-23 Got some useful feedback for my essay from other student. (To include my own V&R map, to have few references, and to include introduction and conclusion.)
-- 2021-12-23 Sent esssay draft to other student.
-- 2021-12-16 Added a part called portfolio items to this file that explains what this portfolio contains.
-- 2021-12-9 Attached CV pdf file and my research pdf file.
-- 2021-12-7 Created an updated CV.
-- 2021-12-3 Eddited few parts of my file to improve and to be more clean.
-- 2021-11-24 Talked to a tutor about my website and essay. It helped a lot.
-- 2021-10-21 Created github account. 
+- 2021-12-23 Got some useful feedback for my essay from other student (To include my own V&R map, to have few references, and to include introduction and conclusion)
+- 2021-12-23 Sent esssay draft to other student
+- 2021-12-16 Added a part called portfolio items to this file that explains what this portfolio contains
+- 2021-12-9 Attached CV pdf file and my research pdf file
+- 2021-12-7 Created an updated CV
+- 2021-12-3 Eddited few parts of my file to improve and to be more clean
+- 2021-11-24 Talked to a tutor about my website and essay. It helped a lot
+- 2021-10-21 Created github account
 
 
 <br>
