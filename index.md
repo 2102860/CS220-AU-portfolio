@@ -62,5 +62,5 @@ I studied a foundation course in 2020, and this was my research topic. I was loo
 
 ## CV
 
-My full CV can be found here [CV 2021](https://github.com/2102860/CS220-AU-portfolio/blob/main/cv-2021-pdf.pdf)
+My full CV can be found here [CV 2021]()
 
