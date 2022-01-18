@@ -15,7 +15,7 @@ I am a first year Liberal Arts student in Essex. I am half Japanese and half Bri
 <br>
 
 ## contact
-Email address eh20891@essex.ac.uk
+Email address: eh20891@essex.ac.uk
 
 <br>
 
@@ -26,15 +26,15 @@ Email address eh20891@essex.ac.uk
 | date | degree | institute |
 --- | --- | ---
 | ongoing | **BA**  in Liberal Arts | University of Essex
-| 2021 | **Foundation course** Liberal Arts | University of Essex International College
-| 2020 | **High School Diploma** English Department | Kasumigaoka highschool 
+| 2021 | **Foundation course** in Liberal Arts | University of Essex International College
+| 2020 | **High School Diploma** for English Department | Kasumigaoka highschool 
 
 
 <br>
 
 ## My research
 ### How human emotion change through watching sad films and how these changes may affect life
-I studied a foundation course in 2020, and this was my research topic. I was looking at university website and found that there are studies about films and human relatioships. I am interested in this topic, so I decided to research more about it, mainly focusing on human emotions. I was curious as to why people like sad movies despite the fact that they make people cry. I was interseted in knowing what makes it enjoyable, as well as how humans deal with negative and happy emotions. As a result, I wanted to concentrate on sad films and how that affect people's life.Research question is mainly devided into 4 parts.
+I studied a foundation course in 2020, and this was my research topic. I was looking at university website and found that there are studies about films and human relatioships. I am interested in this topic, so I decided to research more about it, mainly focusing on human emotions. I was curious as to why people like sad movies despite the fact that they make people cry. I was interseted in knowing what makes it enjoyable, as well as how humans deal with negative and happy emotions. As a result, I wanted to concentrate on sad films and how that affect people's life. Research question is mainly devided into 4 parts.
 
 ### Research questions
 
