@@ -10,7 +10,7 @@ GitHub repository URL: https://github.com/2102860/CS220-AU-portfolio
 ### General
 I made sure that
 - [x] my GitHub username matches my student number
-- [ ] my repository to submit is named 'CS220-AU-portfolio'
+- [x] my repository to submit is named 'CS220-AU-portfolio'
 
 ### Website
 I used the `index.md` file 
@@ -26,7 +26,7 @@ I used the `index.md` file
 ### Self- and peer-assessment
 In the `assessement.md` file I
 - [x] familiarised myself with the marking rubric
-- [ ] filled in the self-assessment table
+- [x] filled in the self-assessment table
 - [ ] filled in the peer-assessment tables for which one student in my CS220 group provided feedback for
 - [ ] familiarised myself with the marking rubric and provided feedback for one students in my CS220 group
 
