@@ -56,7 +56,7 @@ I studied a foundation course in 2020, and this was my research topic. I was loo
 
 #### Here is some slides briefly explaining my research. 
 
-[Slides about my research.](https://github.com/2102860/CS220-AU-portfolio/blob/main/Human%20emotion%20and%20sad%20films.pdf)
+[Slides about my research.](https://2102860.github.io/CS220-AU-portfolio/human-emotion-and-sad-films.pdf)
 
 <br><br> 
 
