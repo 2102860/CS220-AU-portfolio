@@ -2,7 +2,7 @@ Student number:2102860
 Module code: CS220 AU  
 Coursework title: Digital Portfolio  
 Marker: Krisztian Hofstadter  
-GitHub repository URL: <!-- #todo : add the URL of your repository -->  
+GitHub repository URL: <!-- #todo : https://github.com/2102860/CS220-AU-portfolio -->  
 
 ## Checklist
 <!-- #todo : complete the checklist below by simply replacing the space with an 'x' as seen in the first checkpoint below. --> 
