@@ -20,6 +20,8 @@ Updated CV.
 <br>
 
 ## Log
+- 2022-01-18 Did self 
+- 2022-01-18 Exported my essay to PDF
 - 2022-01-14 added referencing list 
 - 2022-01-13 changed and improved my essay 
 - 2022-01-11 finished essay 
